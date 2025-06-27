@@ -1,10 +1,10 @@
-# sistema-petfeed
+# 💻🐩 sistema-petfeed
 
 # PetFeed - Gestão para Casa de Ração
 
 O **PetFeed** é um sistema de gestão desenvolvido para casas de ração, oferecendo funcionalidades que facilitam o gerenciamento de estoque, vendas, fluxo de caixa, relatórios e muito mais.
 
-## Funcionalidades
+## 🛠️ Funcionalidades
 
 - **Dashboard**: Visão geral com indicadores de desempenho, como lucro mensal, vendas diárias e status do estoque.
 - **Gestão de Estoque**: Controle detalhado de produtos, categorias, níveis de estoque e alertas para itens críticos.
@@ -13,7 +13,7 @@ O **PetFeed** é um sistema de gestão desenvolvido para casas de ração, ofere
 - **Relatórios**: Geração de relatórios detalhados sobre vendas, desempenho mensal e clientes frequentes.
 - **Clientes e Fornecedores**: Gerenciamento de informações de clientes e fornecedores.
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 - **HTML5** e **CSS3**: Estrutura e estilização do sistema.
 - **TailwindCSS**: Framework CSS para design responsivo e moderno.
@@ -21,11 +21,11 @@ O **PetFeed** é um sistema de gestão desenvolvido para casas de ração, ofere
 - **Chart.js**: Gráficos interativos para visualização de dados.
 - **JavaScript**: Funcionalidades dinâmicas, como animações e interatividade.
 
-## Como Usar
+## ⚠️ Como Usar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/petfeed.git
+   git clone https://github.com/Abner74/petfeed.git
 
 Abra o arquivo index.html em seu navegador para visualizar o sistema.
 
